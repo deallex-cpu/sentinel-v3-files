@@ -1,0 +1,27 @@
+/* ═══════════════════════════════════════════════════════════════
+   SENTINEL v3.0 — Enterprise Security Dashboard
+   Design: Dark Glassmorphism 2026
+   Inspired by: Palo Alto Cortex, CrowdStrike Falcon, Horizon UI
+   
+   COMMENT UTILISER:
+   Dans index.html, remplacer tout le bloc <style>...</style>
+   par le contenu de ce fichier.
+   ═══════════════════════════════════════════════════════════════
+
+   Ce fichier CSS transforme le dashboard SENTINEL en interface
+   enterprise-grade avec:
+   - Dark Glassmorphism (backdrop-filter blur + transparence)
+   - Gradients subtils sur backgrounds et headers
+   - Ombres multi-couches realistes avec glow
+   - Animations de transition fluides (cubic-bezier)
+   - Cards avec profondeur visuelle (inner glow, subtle borders)
+   - Background ambient gradient + dot pattern
+   - Sidebar avec active state lumineux + accent bar
+   - Score ring avec drop-shadow glow
+   - Severity badges avec gradient + glow
+   - Toast notifications avec glass effect
+   - Palette "deep space" inspiree Cortex XDR
+*/
+
+VOIR LE FICHIER COMPLET: design_enterprise.html dans les outputs de session Claude
+OU telecharger depuis: /mnt/session/outputs/design_enterprise.html
