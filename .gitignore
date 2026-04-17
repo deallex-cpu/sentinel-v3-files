@@ -1,0 +1,7 @@
+.sentinel-token
+sentinel.log
+auto_response.log
+threat_ips.txt
+fim_baseline.json
+behavioral_baseline.json
+backup_status.json
