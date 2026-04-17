@@ -1,0 +1,22 @@
+{
+  "port": 8888,
+  "host": "127.0.0.1",
+  "suricataEvePath": "C:\\ProgramData\\Suricata\\log\\eve.json",
+  "maxBodySize": 4096,
+  "suricataMaxReadBytes": 2097152,
+  "rateLimitWindowMs": 60000,
+  "rateLimitMaxActions": 30,
+  "fimEnabled": true,
+  "canaryEnabled": true,
+  "autoResponseEnabled": true,
+  "hardeningEnabled": true,
+  "threatIntelEnabled": true,
+  "usbMonitorEnabled": true,
+  "behavioralEnabled": true,
+  "scannerEnabled": true,
+  "fimIntervalMinutes": 5,
+  "canaryDir": null,
+  "threatIntelFeeds": [
+    "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt"
+  ]
+}
